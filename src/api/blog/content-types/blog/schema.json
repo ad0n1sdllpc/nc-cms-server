@@ -69,6 +69,14 @@
         "preset": "defaultHtml"
       },
       "customField": "plugin::ckeditor5.CKEditor"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "News",
+        "Announcement",
+        "Blog"
+      ]
     }
   }
 }
