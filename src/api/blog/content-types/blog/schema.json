@@ -63,13 +63,7 @@
       ],
       "required": true
     },
-    "customContent": {
-      "type": "customField",
-      "options": {
-        "preset": "defaultHtml"
-      },
-      "customField": "plugin::ckeditor5.CKEditor"
-    },
+    
     "type": {
       "type": "enumeration",
       "enum": [
